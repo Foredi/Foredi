@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,postgres,figma,supabase, postman" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,postgres,figma,supabase,postman" /><br>
     <img src="https://skillicons.dev/icons?i=py,django,pytorch,selenium,tensorflow,bootstrap,html,css" />
 </div>
   <br/><br/><br/>
