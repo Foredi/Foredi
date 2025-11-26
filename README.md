@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Di!;" />
 </h1>
 
-<h3 align="center">I'm a Data Science/ Data Engineer</h3>
+<h3 align="center">I'm a AI Engineer / Data Engineer</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I'm currently a 3rd year student
+ 🔭 I'm currently a 4th year student
  
  </div>
 
